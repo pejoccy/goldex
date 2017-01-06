@@ -1,0 +1,40 @@
+/**
+*CUSTOM CSS FILE FOR HMO MANAGER APP
+*/
+input#edit-username {
+height: 35px;
+border-radius: 6px;
+border: solid 1px #666;
+box-shadow: 2px 2px 2px 2px #B3B0B0;
+font-size: 14px;
+}
+
+input#edit-password {
+height: 35px;
+border-radius: 6px;
+border: solid 1px #666;
+box-shadow: 2px 2px 2px 2px #B3B0B0;
+font-size: 14px;
+}
+
+#edit-clientinfo .form-item .description {
+color: red;
+font-style: italic;
+}
+
+.style-me {
+display: inline-block;
+width: 220px;
+background: green;
+border: solid 1px #444;
+margin-bottom: 10px;
+height: 25px;
+padding: 8px;
+line-height: 14px;
+color: #fff;
+font-weight: bold;
+}
+
+div#edit-options {
+display: inline-flex;
+}
